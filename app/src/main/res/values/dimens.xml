@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><dimen name="padding">16dp</dimen>
+    <dimen name="teamName">18sp</dimen>
+    <dimen name="scoreSize">70sp</dimen>
+    <dimen name="buttonTop">24dp</dimen>
+    <dimen name="parentLeft">24dp</dimen>
+    <dimen name="parentRight">24dp</dimen>
+    <dimen name="splashtextsize">36sp</dimen>
+    <dimen name="buttonmargin">30dp</dimen>
+    <dimen name="buttonHeight">50dp</dimen>
+
+</resources>

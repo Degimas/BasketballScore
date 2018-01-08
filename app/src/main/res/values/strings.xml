@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Basketball Score</string>
+    <string name="spashText">Basketball Score Counter</string>
+    <string name="HomeTeam">Home Team!</string>
+    <string name="score">0</string>
+    <string name="threePoints">     +3</string>
+    <string name="GuestTeam">Guest Team!</string>
+    <string name="reset">reset</string>
+</resources>
